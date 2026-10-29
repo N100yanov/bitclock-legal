@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  {% for l in site.languages %}<link rel="alternate" hreflang="{{ l }}" href="{{ site.url }}{{ site.baseurl }}/{% if l != 'en' %}{{ l }}/{% endif %}{{ page.ref }}">
+  {% endfor %}<style>
+    :root { --bg: #f6f8fc; --card: #ffffff; --text: #1b2333; --muted: #5b6678; --accent: #0070d1; --line: #dde3ee; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg: #070b18; --card: #10192f; --text: #e8edf7; --muted: #a3afc4; --accent: #4aa8ff; --line: #24314f; }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    header { position: sticky; top: 0; z-index: 1; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+    .bar { max-width: 820px; margin: 0 auto; padding: 10px 16px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+    .brand { font-weight: 600; color: var(--text); text-decoration: none; margin-right: auto; }
+    nav.flags { display: flex; gap: 6px; flex-wrap: wrap; }
+    nav.flags a { display: inline-flex; align-items: center; gap: 6px; padding: 4px 8px; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); text-decoration: none; font-size: 13px; }
+    nav.flags a[aria-current="true"] { border-color: var(--accent); color: var(--text); font-weight: 600; }
+    nav.flags svg { width: 24px; height: 16px; border-radius: 3px; box-shadow: 0 0 0 1px rgba(0,0,0,.15); flex: none; }
+    main { max-width: 820px; margin: 0 auto; padding: 24px 16px 64px; }
+    article { background: var(--card); border: 1px solid var(--line); border-radius: 20px; padding: 8px 24px 24px; overflow-wrap: anywhere; }
+    h1 { font-size: 30px; line-height: 1.25; } h2 { font-size: 21px; margin-top: 32px; }
+    a { color: var(--accent); }
+    table { width: 100%; border-collapse: collapse; display: block; overflow-x: auto; font-size: 15px; }
+    th, td { border: 1px solid var(--line); padding: 8px 10px; text-align: left; vertical-align: top; }
+    form.contact { display: grid; gap: 12px; margin-top: 12px; }
+    form.contact label { display: grid; gap: 4px; font-size: 14px; color: var(--muted); }
+    form.contact input, form.contact textarea { font: inherit; color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; }
+    form.contact button { font: inherit; font-weight: 600; color: #fff; background: var(--accent); border: 0; border-radius: 999px; padding: 12px 20px; cursor: pointer; justify-self: start; }
+    @media (max-width: 560px) { nav.flags a span { display: none; } article { padding: 4px 16px 16px; } h1 { font-size: 26px; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="bar">
+      <a class="brand" href="{{ site.baseurl }}/{% if page.lang != 'en' %}{{ page.lang }}/{% endif %}">⏰ BitClock</a>
+      <nav class="flags" aria-label="Language">
+        {% for l in site.languages %}
+        <a href="{{ site.baseurl }}/{% if l != 'en' %}{{ l }}/{% endif %}{{ page.ref }}" hreflang="{{ l }}" lang="{{ l }}"{% if l == page.lang %} aria-current="true"{% endif %}>
+          {% case l %}
+          {% when 'en' %}<svg viewBox="0 0 60 30" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><clipPath id="gb-s"><path d="M0,0v30h60V0z"/></clipPath><clipPath id="gb-t"><path d="M30,15h30v15zv15H0zH0V0zV0h30z"/></clipPath><g clip-path="url(#gb-s)"><path d="M0,0v30h60V0z" fill="#012169"/><path d="M0,0 60,30M60,0 0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 60,30M60,0 0,30" clip-path="url(#gb-t)" stroke="#C8102E" stroke-width="4"/><path d="M30,0v30M0,15h60" stroke="#fff" stroke-width="10"/><path d="M30,0v30M0,15h60" stroke="#C8102E" stroke-width="6"/></g></svg><span>English</span>
+          {% when 'de' %}<svg viewBox="0 0 5 3" aria-hidden="true"><path d="M0,0h5v1H0z" fill="#000"/><path d="M0,1h5v1H0z" fill="#D00"/><path d="M0,2h5v1H0z" fill="#FFCE00"/></svg><span>Deutsch</span>
+          {% when 'es' %}<svg viewBox="0 0 750 500" aria-hidden="true"><path d="M0,0h750v500H0z" fill="#AA151B"/><path d="M0,125h750v250H0z" fill="#F1BF00"/></svg><span>Español</span>
+          {% when 'pt' %}<svg viewBox="0 0 600 400" aria-hidden="true"><path d="M0,0h240v400H0z" fill="#060"/><path d="M240,0h360v400H240z" fill="#F00"/><circle cx="240" cy="200" r="80" fill="#FC0"/><path d="M198,150h84v62a42,42 0 0 1-84,0z" fill="#F00"/><path d="M214,166h52v44a26,26 0 0 1-52,0z" fill="#fff"/></svg><span>Português</span>
+          {% when 'bg' %}<svg viewBox="0 0 5 3" aria-hidden="true"><path d="M0,0h5v1H0z" fill="#fff"/><path d="M0,1h5v1H0z" fill="#00966E"/><path d="M0,2h5v1H0z" fill="#D62612"/></svg><span>Български</span>
+          {% endcase %}
+        </a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+  <main>
+    <article>
+{{ content }}
+    </article>
+  </main>
+</body>
+</html>

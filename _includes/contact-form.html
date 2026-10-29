@@ -1,0 +1,20 @@
+{% comment %}
+  The Contact us form for people without the app. It posts to Web3Forms with
+  the site's access key; Web3Forms forwards it to the developer's inbox and
+  keeps that address on its side. Without a key, the app's form is named.
+  Pass the labels: name, email, message, send, note.
+{% endcomment %}
+{% if site.contact_form_key and site.contact_form_key != "" %}
+<form class="contact" action="https://api.web3forms.com/submit" method="POST">
+  <input type="hidden" name="access_key" value="{{ site.contact_form_key }}">
+  <input type="hidden" name="subject" value="BitClock question (website, {{ page.lang }})">
+  <input type="hidden" name="from_name" value="BitClock website">
+  <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
+  <label>{{ include.name }}<input name="name" required maxlength="100" autocomplete="name"></label>
+  <label>{{ include.email }}<input type="email" name="email" required maxlength="200" autocomplete="email"></label>
+  <label>{{ include.message }}<textarea name="message" required rows="6" maxlength="4000"></textarea></label>
+  <button type="submit">{{ include.send }}</button>
+</form>
+{% else %}
+<p>{{ include.note }}</p>
+{% endif %}

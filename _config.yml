@@ -1,0 +1,37 @@
+title: BitClock
+description: Smart alarm clock, timers, clock and notes
+
+# The Web3Forms access key of the Contact us form (the same one as the app's
+# CONTACT_FORM_KEY in secrets.json). Web3Forms keeps the e-mail address it
+# forwards to on its side, so the address never appears on these pages.
+# Empty: the support pages point to the form in the app instead.
+contact_form_key: ""
+
+# The languages, in the order of the flags at the top of every page.
+languages: [en, de, es, pt, bg]
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      lang: en
+  - scope:
+      path: "de"
+    values:
+      lang: de
+  - scope:
+      path: "es"
+    values:
+      lang: es
+  - scope:
+      path: "pt"
+    values:
+      lang: pt
+  - scope:
+      path: "bg"
+    values:
+      lang: bg
+
+exclude:
+  - README.md
