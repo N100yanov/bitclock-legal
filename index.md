@@ -21,7 +21,7 @@ The quickest way is in the app: **Settings → Contact us**. We usually answer w
 Open **Settings → Alarm reliability** (Android) and tap **Fix** next to anything that isn't green: *Exact alarms*, *Full-screen alarm over lock screen*, *Notifications* and *Unrestricted battery use*. **Settings → Permission guide** walks you through them step by step. Some phones (Xiaomi, Huawei, Samsung, OnePlus…) also need BitClock to be allowed to *auto-start* or *run in the background*. Then set a test alarm one minute ahead and lock the phone.
 
 **How do I choose my news?**
-In an alarm, switch on *Top world news* or *Local news* and tap **Personalise news**. Choose the service (Google News, BBC News, Euronews or DW), the sections (for example Technology or Sports), up to five interests of your own, and the city for local news.
+In an alarm, switch on *News* and tap **Personalise news**. Choose the service (Google News, BBC News, Euronews or DW), the sections (news near you, top stories, world, Technology, Sports…), up to five interests of your own, the city for local news, and 5, 10 or 15 headlines per section. In the briefing, tap a headline to read the whole story in your browser.
 
 **How do I cancel BitClock Pro?**
 In your store account: Google Play → *Payments & subscriptions → Subscriptions*, or iPhone *Settings → your name → Subscriptions*. Uninstalling the app does **not** cancel a subscription.

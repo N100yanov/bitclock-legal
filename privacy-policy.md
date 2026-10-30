@@ -54,6 +54,8 @@ They only run when you switch them on, and they connect straight from your phone
 | *On this day*, born and died today, *Trending today* | Wikimedia / Wikipedia ([privacy policy](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)) | The date and the language |
 | *Contact us* | [Web3Forms](https://web3forms.com) (forwards the message to our inbox) | Your name, your e-mail address, your question and the app version, **only when you press Send** |
 
+A headline you tap opens in your browser, on the news site, which then applies its own privacy policy. BitClock doesn't learn which stories you read.
+
 ## 4. Messages you send us
 
 When you use *Contact us* (in the app or on our support page), we receive your **name, e-mail address and question**, and the app version. We use them only to answer you and to improve the app. We keep them for as long as needed to help you, and delete them on request. We never sell them or use them for marketing.

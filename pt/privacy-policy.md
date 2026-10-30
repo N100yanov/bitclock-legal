@@ -52,6 +52,8 @@ Eles só funcionam quando você os ativa e se conectam direto do seu telefone ao
 | *Aconteceu neste dia*, nascidos e falecidos hoje, *Em alta hoje* | Wikimedia / Wikipédia ([privacidade](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)) | A data e o idioma |
 | *Fale conosco* | [Web3Forms](https://web3forms.com) (encaminha a mensagem para a nossa caixa de entrada) | Seu nome, seu e-mail, sua pergunta e a versão do app, **só quando você toca em Enviar** |
 
+Uma manchete que você toca abre no seu navegador, no site de notícias, que aplica a própria política de privacidade. O BitClock não fica sabendo quais matérias você lê.
+
 ## 4. Mensagens que você nos envia
 
 Quando você usa o *Fale conosco* (no app ou na nossa página de ajuda), recebemos seu **nome, e-mail e pergunta**, e a versão do app. Usamos isso só para responder e melhorar o app. Guardamos pelo tempo necessário para ajudar você e apagamos se você pedir. Nunca vendemos nem usamos para marketing.

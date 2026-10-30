@@ -19,7 +19,7 @@ Am schnellsten geht es in der App: **Einstellungen → Kontakt**. Wir antworten 
 Öffne **Einstellungen → Weckerzuverlässigkeit** (Android) und tippe bei allem, was nicht grün ist, auf **Beheben**: *Exakte Wecker*, *Vollbildwecker über dem Sperrbildschirm*, *Benachrichtigungen* und *Uneingeschränkte Akkunutzung*. Der **Berechtigungs-Assistent** in den Einstellungen führt dich Schritt für Schritt durch. Manche Handys (Xiaomi, Huawei, Samsung, OnePlus …) müssen BitClock außerdem den *Autostart* oder die *Ausführung im Hintergrund* erlauben. Stelle dann einen Testwecker eine Minute später und sperre das Handy.
 
 **Wie wähle ich meine Nachrichten?**
-Schalte in einem Wecker *Wichtigste Weltnachrichten* oder *Lokale Nachrichten* ein und tippe auf **Nachrichten anpassen**. Wähle den Dienst (Google News, BBC News, Euronews oder DW), die Rubriken (zum Beispiel Technik oder Sport), bis zu fünf eigene Interessen und die Stadt für die lokalen Nachrichten.
+Schalte in einem Wecker *Nachrichten* ein und tippe auf **Nachrichten anpassen**. Wähle den Dienst (Google News, BBC News, Euronews oder DW), die Rubriken (Nachrichten in deiner Nähe, Top-Meldungen, Welt, Technik, Sport…), bis zu fünf eigene Interessen, die Stadt für die lokalen Nachrichten und 5, 10 oder 15 Schlagzeilen pro Rubrik. Tippe im Briefing auf eine Schlagzeile, um den ganzen Artikel im Browser zu lesen.
 
 **Wie kündige ich BitClock Pro?**
 In deinem Store-Konto: Google Play → *Zahlungen & Abos → Abos* oder auf dem iPhone *Einstellungen → dein Name → Abonnements*. Die App zu deinstallieren kündigt ein Abo **nicht**.

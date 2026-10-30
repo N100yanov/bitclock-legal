@@ -52,6 +52,8 @@ Sie laufen nur, wenn du sie einschaltest, und verbinden sich direkt von deinem H
 | *Historisches an diesem Tag*, heute geboren und gestorben, *Heute im Trend* | Wikimedia / Wikipedia ([Datenschutz](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)) | Das Datum und die Sprache |
 | *Kontakt* | [Web3Forms](https://web3forms.com) (leitet die Nachricht an unser Postfach weiter) | Dein Name, deine E-Mail-Adresse, deine Frage und die App-Version, **nur wenn du auf Senden tippst** |
 
+Eine Schlagzeile, auf die du tippst, öffnet sich in deinem Browser auf der Nachrichtenseite; dort gilt deren eigene Datenschutzerklärung. BitClock erfährt nicht, welche Artikel du liest.
+
 ## 4. Nachrichten, die du uns sendest
 
 Wenn du *Kontakt* nutzt (in der App oder auf unserer Hilfeseite), erhalten wir deinen **Namen, deine E-Mail-Adresse und deine Frage** sowie die App-Version. Wir nutzen sie nur, um dir zu antworten und die App zu verbessern. Wir bewahren sie so lange auf, wie es nötig ist, um dir zu helfen, und löschen sie auf Wunsch. Wir verkaufen sie nie und nutzen sie nicht für Werbung.

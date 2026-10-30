@@ -52,6 +52,8 @@ Solo funcionan si las activas, y se conectan directamente desde tu teléfono al 
 | *Un día como hoy*, nacidos y fallecidos hoy, *Tendencias de hoy* | Wikimedia / Wikipedia ([privacidad](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)) | La fecha y el idioma |
 | *Contacto* | [Web3Forms](https://web3forms.com) (reenvía el mensaje a nuestro buzón) | Tu nombre, tu correo, tu pregunta y la versión de la app, **solo cuando pulsas Enviar** |
 
+Un titular que tocas se abre en tu navegador, en el sitio de noticias, que aplica su propia política de privacidad. BitClock no sabe qué noticias lees.
+
 ## 4. Mensajes que nos envías
 
 Cuando usas *Contacto* (en la app o en nuestra página de ayuda), recibimos tu **nombre, correo y pregunta**, y la versión de la app. Los usamos solo para responderte y mejorar la app. Los guardamos el tiempo necesario para ayudarte y los borramos si lo pides. Nunca los vendemos ni los usamos para marketing.

@@ -19,7 +19,7 @@ O jeito mais rápido é pelo app: **Configurações → Fale conosco**. Costumam
 Abra **Configurações → Confiabilidade do alarme** (Android) e toque em **Corrigir** ao lado de tudo o que não estiver verde: *Alarmes exatos*, *Alarme em tela cheia sobre a tela de bloqueio*, *Notificações* e *Uso de bateria sem restrições*. O **Guia de permissões** nas Configurações leva você passo a passo. Alguns telefones (Xiaomi, Huawei, Samsung, OnePlus…) também precisam permitir que o BitClock *inicie automaticamente* ou *funcione em segundo plano*. Depois, defina um alarme de teste para daqui a um minuto e bloqueie o telefone.
 
 **Como escolho minhas notícias?**
-Em um alarme, ative *Principais notícias do mundo* ou *Notícias locais* e toque em **Personalizar notícias**. Escolha o serviço (Google Notícias, BBC News, Euronews ou DW), as seções (por exemplo Tecnologia ou Esportes), até cinco interesses seus e a cidade das notícias locais.
+Em um alarme, ative *Notícias* e toque em **Personalizar notícias**. Escolha o serviço (Google Notícias, BBC News, Euronews ou DW), as seções (notícias perto de você, principais, mundo, Tecnologia, Esportes…), até cinco interesses seus, a cidade das notícias locais e 5, 10 ou 15 manchetes por seção. No resumo, toque em uma manchete para ler a matéria completa no navegador.
 
 **Como cancelo o BitClock Pro?**
 Na sua conta da loja: Google Play → *Pagamentos e assinaturas → Assinaturas*, ou no iPhone *Ajustes → seu nome → Assinaturas*. Desinstalar o app **não** cancela a assinatura.
