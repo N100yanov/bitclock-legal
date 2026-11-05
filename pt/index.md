@@ -18,6 +18,9 @@ O jeito mais rápido é pelo app: **Configurações → Fale conosco**. Costumam
 **Meu alarme não tocou.**
 Abra **Configurações → Confiabilidade do alarme** (Android) e toque em **Corrigir** ao lado de tudo o que não estiver verde: *Alarmes exatos*, *Alarme em tela cheia sobre a tela de bloqueio*, *Notificações* e *Uso de bateria sem restrições*. O **Guia de permissões** nas Configurações leva você passo a passo. Alguns telefones (Xiaomi, Huawei, Samsung, OnePlus…) também precisam permitir que o BitClock *inicie automaticamente* ou *funcione em segundo plano*. Depois, defina um alarme de teste para daqui a um minuto e bloqueie o telefone.
 
+**Como ganho um mês de Pro grátis?**
+Levante no primeiro toque. Uma manhã conta quando cada alarme que tocou foi parado no primeiro toque, sem soneca. Cinco manhãs seguidas dão o troféu *Decisão e firmeza*, e 30 seguidas o troféu *Lenda madrugadora* com um mês de Pro (no Android com o código *earlyBird30*, no iPhone diretamente). A aba *Alarme* mostra seu progresso; um toque nele mostra os troféus e as regras. Os dois troféus podem ser compartilhados como imagem.
+
 **Como escolho minhas notícias?**
 Em um alarme, ative *Notícias* e toque em **Personalizar notícias**. Escolha o serviço (Google Notícias, BBC News, Euronews ou DW), as seções (notícias perto de você, principais, mundo, Tecnologia, Esportes…), até cinco interesses seus, a cidade das notícias locais e 5, 10 ou 15 manchetes por seção. No resumo, toque em uma manchete para ler a matéria completa no navegador.
 

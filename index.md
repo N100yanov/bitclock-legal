@@ -20,6 +20,9 @@ The quickest way is in the app: **Settings → Contact us**. We usually answer w
 **My alarm didn't ring.**
 Open **Settings → Alarm reliability** (Android) and tap **Fix** next to anything that isn't green: *Exact alarms*, *Full-screen alarm over lock screen*, *Notifications* and *Unrestricted battery use*. **Settings → Permission guide** walks you through them step by step. Some phones (Xiaomi, Huawei, Samsung, OnePlus…) also need BitClock to be allowed to *auto-start* or *run in the background*. Then set a test alarm one minute ahead and lock the phone.
 
+**How do I earn a free month of Pro?**
+Get up at the first ring. A morning counts when every alarm that rang was stopped at its first ring, without a snooze. Five mornings in a row earn the *Decisive & strict* trophy, and 30 in a row the *Legendary early bird* trophy with one month of Pro (on Android with the code *earlyBird30*, on iPhone directly). The *Alarm* tab shows your progress; a tap on that line shows the trophies and the rules. Both trophies can be shared as pictures.
+
 **How do I choose my news?**
 In an alarm, switch on *News* and tap **Personalise news**. Choose the service (Google News, BBC News, Euronews or DW), the sections (news near you, top stories, world, Technology, Sports…), up to five interests of your own, the city for local news, and 5, 10 or 15 headlines per section. In the briefing, tap a headline to read the whole story in your browser.
 

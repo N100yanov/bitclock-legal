@@ -5,7 +5,7 @@ ref: terms-of-use.html
 
 # Termos de uso do BitClock
 
-*Última atualização: 30 de outubro de 2026*
+*Última atualização: 6 de novembro de 2026*
 
 Estes termos se aplicam ao app BitClock ("o app"), feito pelo desenvolvedor do BitClock ("nós"). Ao instalar ou usar o app, você concorda com eles. A versão em inglês é a que prevalece; esta tradução serve para facilitar a leitura. Se você baixou o app na Apple App Store, também se aplica o [Contrato de Licença de Usuário Final de Aplicativos Licenciados](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) da Apple; se algo for diferente, o contrato da Apple prevalece para o uso em aparelhos Apple.
 
@@ -26,6 +26,7 @@ Nos esforçamos para que os alarmes toquem de forma confiável, mas um telefone 
 - **Cancele ou gerencie** quando quiser na sua conta da loja: Google Play → *Pagamentos e assinaturas → Assinaturas*, ou no iPhone *Ajustes → seu nome → Assinaturas*. Cancelar interrompe a próxima renovação; o Pro continua ativo até o fim do período pago.
 - **Reembolsos** são tratados pelo Google Play ou pela Apple, segundo as regras deles.
 - **Códigos promocionais** (Android) dão tempo grátis de Pro uma vez por aparelho e não têm valor em dinheiro.
+- **O prêmio dos troféus:** 30 manhãs decididas seguidas (cada alarme parado no primeiro toque, conferido com a hora da internet) dão um mês de Pro, uma vez por celular: no Android com o código *earlyBird30*, que só funciona no celular que o conquistou, e no iPhone diretamente. Ele não tem valor em dinheiro, e podemos mudar ou encerrar esta oferta para manhãs ainda não conquistadas.
 - Podemos adicionar recursos Pro ou mudar o que está incluído. Se um preço mudar, a loja avisa você antes, como suas regras exigem.
 
 ## 4. Conteúdo

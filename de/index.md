@@ -18,6 +18,9 @@ Am schnellsten geht es in der App: **Einstellungen → Kontakt**. Wir antworten 
 **Mein Wecker hat nicht geklingelt.**
 Öffne **Einstellungen → Weckerzuverlässigkeit** (Android) und tippe bei allem, was nicht grün ist, auf **Beheben**: *Exakte Wecker*, *Vollbildwecker über dem Sperrbildschirm*, *Benachrichtigungen* und *Uneingeschränkte Akkunutzung*. Der **Berechtigungs-Assistent** in den Einstellungen führt dich Schritt für Schritt durch. Manche Handys (Xiaomi, Huawei, Samsung, OnePlus …) müssen BitClock außerdem den *Autostart* oder die *Ausführung im Hintergrund* erlauben. Stelle dann einen Testwecker eine Minute später und sperre das Handy.
 
+**Wie bekomme ich einen Monat Pro geschenkt?**
+Steh beim ersten Klingeln auf. Ein Morgen zählt, wenn jeder Wecker, der geklingelt hat, beim ersten Klingeln beendet wurde, ohne Schlummern. Fünf Morgen in Folge bringen die Trophäe *Entschlossen & konsequent*, 30 in Folge die Trophäe *Frühaufsteh-Legende* mit einem Monat Pro (auf Android mit dem Code *earlyBird30*, auf dem iPhone direkt). Der Tab *Wecker* zeigt deinen Fortschritt; ein Tippen darauf zeigt die Trophäen und die Regeln. Beide Trophäen lassen sich als Bild teilen.
+
 **Wie wähle ich meine Nachrichten?**
 Schalte in einem Wecker *Nachrichten* ein und tippe auf **Nachrichten anpassen**. Wähle den Dienst (Google News, BBC News, Euronews oder DW), die Rubriken (Nachrichten in deiner Nähe, Top-Meldungen, Welt, Technik, Sport…), bis zu fünf eigene Interessen, die Stadt für die lokalen Nachrichten und 5, 10 oder 15 Schlagzeilen pro Rubrik. Tippe im Briefing auf eine Schlagzeile, um den ganzen Artikel im Browser zu lesen.
 

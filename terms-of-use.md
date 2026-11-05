@@ -7,7 +7,7 @@ ref: terms-of-use.html
 
 # BitClock terms of use
 
-*Last updated: 30 October 2026*
+*Last updated: 6 November 2026*
 
 These terms apply to the BitClock app ("the app"), made by the BitClock developer ("we"). By installing or using the app you agree to them. If you downloaded the app from the Apple App Store, Apple's [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies; if anything differs, Apple's agreement wins for your use on Apple devices.
 
@@ -28,6 +28,7 @@ We work hard to make alarms ring reliably, but a phone can stop them: a dead or 
 - **Cancel or manage** at any time in your store account: Google Play → *Payments & subscriptions → Subscriptions*, or iPhone *Settings → your name → Subscriptions*. Cancelling stops the next renewal; Pro stays on until the end of the period you paid for.
 - **Refunds** are handled by Google Play or Apple, under their refund rules.
 - **Promo codes** (Android) give free Pro time once per device and have no cash value.
+- **The trophies' reward:** 30 decisive mornings in a row (every alarm stopped at its first ring, checked against the internet's time) give one month of Pro, once per phone: on Android with the code *earlyBird30*, which works only on the phone that earned it, on iPhone directly. It has no cash value, and we may change or end this offer for mornings not yet earned.
 - We may add Pro features or change what is included. If a price changes, the store tells you first, as its rules require.
 
 ## 4. Content

@@ -5,7 +5,7 @@ ref: terms-of-use.html
 
 # BitClock Nutzungsbedingungen
 
-*Zuletzt aktualisiert: 30. Oktober 2026*
+*Zuletzt aktualisiert: 6. November 2026*
 
 Diese Bedingungen gelten für die App BitClock („die App“), entwickelt vom BitClock-Entwickler („wir“). Mit der Installation oder Nutzung der App stimmst du ihnen zu. Die englische Fassung ist maßgeblich; diese Übersetzung soll sie leichter verständlich machen. Wenn du die App aus dem Apple App Store geladen hast, gilt auch Apples [Endbenutzer-Lizenzvertrag für lizenzierte Apps](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/); bei Abweichungen geht Apples Vertrag für die Nutzung auf Apple-Geräten vor.
 
@@ -26,6 +26,7 @@ Wir geben uns viel Mühe, damit Wecker zuverlässig klingeln, aber ein Handy kan
 - **Kündigen oder verwalten** kannst du jederzeit in deinem Store-Konto: Google Play → *Zahlungen & Abos → Abos* oder auf dem iPhone *Einstellungen → dein Name → Abonnements*. Die Kündigung stoppt die nächste Verlängerung; Pro bleibt bis zum Ende des bezahlten Zeitraums aktiv.
 - **Erstattungen** übernehmen Google Play oder Apple nach ihren Erstattungsregeln.
 - **Promo-Codes** (Android) geben einmal pro Gerät kostenlose Pro-Zeit und haben keinen Geldwert.
+- **Die Belohnung der Trophäen:** 30 entschlossene Morgen in Folge (jeder Wecker beim ersten Klingeln beendet, mit der Zeit aus dem Internet geprüft) bringen einmal pro Handy einen Monat Pro: auf Android mit dem Code *earlyBird30*, der nur auf dem Handy funktioniert, das ihn verdient hat, auf dem iPhone direkt. Sie hat keinen Geldwert, und wir können dieses Angebot für noch nicht erreichte Morgen ändern oder beenden.
 - Wir können Pro-Funktionen hinzufügen oder ändern, was enthalten ist. Ändert sich ein Preis, informiert dich der Store vorher, wie es seine Regeln verlangen.
 
 ## 4. Inhalte
