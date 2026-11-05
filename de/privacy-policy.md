@@ -5,7 +5,7 @@ ref: privacy-policy.html
 
 # BitClock Datenschutzerklärung
 
-*Zuletzt aktualisiert: 30. Oktober 2026*
+*Zuletzt aktualisiert: 5. November 2026*
 
 BitClock ist eine App für Wecker, Timer, Stoppuhr, Uhr und Notizen für Android und iPhone, entwickelt vom BitClock-Entwickler („wir“). Diese Erklärung beschreibt, was mit deinen Daten passiert, wenn du BitClock nutzt. Die englische Fassung ist maßgeblich; diese Übersetzung soll sie leichter verständlich machen.
 
@@ -43,7 +43,7 @@ Du kannst jede optionale Berechtigung in den Einstellungen deines Handys ablehne
 
 ## 3. Optionale Funktionen, die das Internet nutzen
 
-Sie laufen nur, wenn du sie einschaltest, und verbinden sich direkt von deinem Handy mit dem Dienst; dazwischen gibt es keinen BitClock-Server. Diese Dienste erhalten die IP-Adresse deines Geräts, wie jede Website, und verarbeiten sie nach ihren eigenen Datenschutzerklärungen.
+Sie laufen nur, wenn du sie einschaltest (die Zeitprüfung der Trophäen läuft von selbst, nur nach einem Wecker), und verbinden sich direkt von deinem Handy mit dem Dienst; dazwischen gibt es keinen BitClock-Server. Diese Dienste erhalten die IP-Adresse deines Geräts, wie jede Website, und verarbeiten sie nach ihren eigenen Datenschutzerklärungen.
 
 | Funktion | Dienst | Was gesendet wird |
 |---|---|---|
@@ -51,6 +51,8 @@ Sie laufen nur, wenn du sie einschaltest, und verbinden sich direkt von deinem H
 | Nachrichten im Weckbriefing | Google News ([Datenschutz](https://policies.google.com/privacy)) oder der von dir gewählte Dienst: BBC News ([Datenschutz](https://www.bbc.co.uk/usingthebbc/privacy/)), Euronews ([Datenschutz](https://www.euronews.com/terms-and-conditions#privacypolicy)) oder DW ([Datenschutz](https://www.dw.com/en/european-union-general-data-protection-regulation-gdpr-valid-may-25-2018/a-63500655)) | Die Sprache; bei Google News auch die gewählten Rubriken und Interessen sowie dein Land oder deine Stadt für lokale Nachrichten |
 | *Historisches an diesem Tag*, heute geboren und gestorben, *Heute im Trend* | Wikimedia / Wikipedia ([Datenschutz](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)) | Das Datum und die Sprache |
 | *Kontakt* | [Web3Forms](https://web3forms.com) (leitet die Nachricht an unser Postfach weiter) | Dein Name, deine E-Mail-Adresse, deine Frage und die App-Version, **nur wenn du auf Senden tippst** |
+| Trophäen für entschlossene Morgen | Google (`www.gstatic.com`, [Datenschutzerklärung](https://policies.google.com/privacy)) oder Cloudflare | Nur eine leere Anfrage, um die aktuelle Uhrzeit zu lesen, wenn ein Wecker auf die Zählung wartet |
+| Eine Karte teilen, die App bewerten | Die App, die du wählst (Instagram, Facebook, WhatsApp, Viber, X…), oder Google Play / der App Store | Nur das Bild und der Text, die du teilst, **nur wenn du darauf tippst**; BitClock selbst sendet nichts |
 
 Eine Schlagzeile, auf die du tippst, öffnet sich in deinem Browser auf der Nachrichtenseite; dort gilt deren eigene Datenschutzerklärung. BitClock erfährt nicht, welche Artikel du liest.
 
