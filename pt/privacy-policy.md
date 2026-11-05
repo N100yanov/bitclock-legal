@@ -5,7 +5,7 @@ ref: privacy-policy.html
 
 # Política de privacidade do BitClock
 
-*Última atualização: 30 de outubro de 2026*
+*Última atualização: 5 de novembro de 2026*
 
 O BitClock é um app de despertador, timer, cronômetro, relógio e notas para Android e iPhone, feito pelo desenvolvedor do BitClock ("nós"). Esta política explica o que acontece com seus dados quando você usa o BitClock. A versão em inglês é a que prevalece; esta tradução serve para facilitar a leitura.
 
@@ -43,7 +43,7 @@ Você pode recusar ou retirar qualquer permissão opcional nas configurações d
 
 ## 3. Recursos opcionais que usam a internet
 
-Eles só funcionam quando você os ativa e se conectam direto do seu telefone ao serviço; não há nenhum servidor do BitClock no meio. Esses serviços recebem o endereço IP do seu aparelho, como qualquer site, e o tratam segundo suas próprias políticas de privacidade.
+Eles só funcionam quando você os ativa (a verificação da hora dos troféus roda sozinha, só depois de um alarme) e se conectam direto do seu telefone ao serviço; não há nenhum servidor do BitClock no meio. Esses serviços recebem o endereço IP do seu aparelho, como qualquer site, e o tratam segundo suas próprias políticas de privacidade.
 
 | Recurso | Serviço | O que é enviado |
 |---|---|---|
@@ -51,6 +51,8 @@ Eles só funcionam quando você os ativa e se conectam direto do seu telefone ao
 | Notícias no resumo ao acordar | Google Notícias ([privacidade](https://policies.google.com/privacy)), ou o serviço que você escolheu: BBC News ([privacidade](https://www.bbc.co.uk/usingthebbc/privacy/)), Euronews ([privacidade](https://www.euronews.com/terms-and-conditions#privacypolicy)) ou DW ([privacidade](https://www.dw.com/en/european-union-general-data-protection-regulation-gdpr-valid-may-25-2018/a-63500655)) | O idioma; com o Google Notícias também as seções e interesses escolhidos, e seu país ou cidade para as notícias locais |
 | *Aconteceu neste dia*, nascidos e falecidos hoje, *Em alta hoje* | Wikimedia / Wikipédia ([privacidade](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)) | A data e o idioma |
 | *Fale conosco* | [Web3Forms](https://web3forms.com) (encaminha a mensagem para a nossa caixa de entrada) | Seu nome, seu e-mail, sua pergunta e a versão do app, **só quando você toca em Enviar** |
+| Troféus de manhãs decididas | Google (`www.gstatic.com`, [política de privacidade](https://policies.google.com/privacy)) ou Cloudflare | Só uma requisição vazia, para ler a hora atual, quando um alarme espera para ser contado |
+| Compartilhar um cartão, avaliar o app | O app que você escolher (Instagram, Facebook, WhatsApp, Viber, X…), ou Google Play / App Store | Só a imagem e o texto que você compartilha, **só quando você toca**; o BitClock em si não envia nada |
 
 Uma manchete que você toca abre no seu navegador, no site de notícias, que aplica a própria política de privacidade. O BitClock não fica sabendo quais matérias você lê.
 
